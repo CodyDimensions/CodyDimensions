@@ -21,3 +21,6 @@ Remember to like and share our videos!
 
 
 [![Cody Dimensions's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDimensions)](https://github.com/CodyDimensions/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyDimensions&layout=compact)](https://github.com/CodyDimensions/github-readme-stats)
