@@ -19,6 +19,7 @@ Remember to like and share our videos!
 <a href="https://discord.gg/D8RPg7YSJv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G9USQwbhUm" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 [![Cody Dimensions's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDimensions)](https://github.com/CodyDimensions/github-readme-stats)
 
