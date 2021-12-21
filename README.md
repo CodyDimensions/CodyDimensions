@@ -1,4 +1,4 @@
-![codydimensions](https://imgur.com/ETYikIB) <br/>
+![welcome](https://imgur.com/ETYikIB) <br/>
 - 👋 Hi, I’m @CodyDimensions
 - 👀 I’m interested in coding discord bots with node.js
 - 🌱 I’m currently learning discord.py
