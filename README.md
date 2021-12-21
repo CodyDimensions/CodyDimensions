@@ -6,7 +6,7 @@
 - 🌐 Don't forget to join our Discord Server: https://discord.gg/D8RPg7YSJv <br/>
 
 ### Subscribe our YouTube Channel
-[Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)
+[Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)<br/>
 Remember to like and share our videos!
 
 ### Discord Server
