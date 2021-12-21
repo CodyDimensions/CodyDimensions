@@ -1,4 +1,4 @@
-![welcome](https://imgur.com/ETYikIB) <br/>
+![welcome](https://i.imgur.com/ETYikIB.png) <br/>
 - 👋 Hi, I’m @CodyDimensions
 - 👀 I’m interested in coding discord bots with node.js
 - 🌱 I’m currently learning discord.py
