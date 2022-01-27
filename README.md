@@ -12,7 +12,8 @@ Remember to like and share our videos!
 
 ### Discord Server
 [Click here to join Cody Dimensions Server](https://discord.gg/D8RPg7YSJv)
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/896641730680594473.png) -->
+
+<img src="https://discord.c99.nl/widget/theme-2/896641730680594473.png" alt="Discord"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
