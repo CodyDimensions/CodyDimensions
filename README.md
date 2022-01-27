@@ -6,8 +6,8 @@
 - 📫 You can contact me by sending a friend request to me Cody Dimension#6075
 - 🌐 Don't forget to join our Discord Server: https://discord.gg/D8RPg7YSJv <br/>
 - 
-[![Cody Dimensions's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDimensions)](https://github.com/CodyDimensions/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyDimensions&layout=compact)](https://github.com/CodyDimensions/github-readme-stats)
+[![Cody Dimensions's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDimensions&theme=algolia&show_icons=true)](https://github.com/CodyDimensions/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyDimensions&layout=compact&theme=algolia&show_icons=true)](https://github.com/CodyDimensions/github-readme-stats)
 
 ### Subscribe our YouTube Channel
 [Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)<br/>
